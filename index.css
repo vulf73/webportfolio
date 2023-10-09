@@ -1,0 +1,28 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+#bg-color {
+	background-color: #f1c48d;
+}
+
+
+#landing {
+	background-image: url(https://images.pexels.com/photos/6498994/pexels-photo-6498994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+#tools {
+	background-image: url(https://images.pexels.com/photos/5086477/pexels-photo-5086477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+nav {
+	background-color: #2596be;
+	color: white;
+}
+
+footer {
+	background-color: #2596be;
+	text-align: center;
+	width: 100%;
+}
